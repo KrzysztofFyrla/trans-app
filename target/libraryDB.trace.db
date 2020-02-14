@@ -1,0 +1,12 @@
+2019-05-29 23:14:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "WORKERS" nie istnieje
+Table "WORKERS" not found; SQL statement:
+DROP TABLE `WORKERS`  [42102-193]
+2019-05-29 23:14:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "TRUCK" nie istnieje
+Table "TRUCK" not found; SQL statement:
+DROP TABLE `TRUCK`  [42102-193]
+2019-05-29 23:14:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "SEMI_TRAILERS" nie istnieje
+Table "SEMI_TRAILERS" not found; SQL statement:
+DROP TABLE `SEMI_TRAILERS`  [42102-193]
